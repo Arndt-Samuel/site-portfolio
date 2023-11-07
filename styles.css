@@ -41,6 +41,7 @@ li {
 
 a {
     color: black;
+    cursor: pointer;
 }
 
 button {
